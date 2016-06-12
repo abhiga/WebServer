@@ -1,0 +1,7 @@
+Features implemented:
+	Iterativer Server
+	Concurrent Server with processes
+	Concureent Server with threads
+	Concurrent Server with pool of threads
+	URL to File Mapping
+
